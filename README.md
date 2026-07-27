@@ -677,4 +677,3 @@ Commit changes:
 git commit -m "Add new feature"
 Push:
 git push origin feature/new-feature
-Open a Pull Request
