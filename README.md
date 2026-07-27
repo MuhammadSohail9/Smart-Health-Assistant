@@ -5,13 +5,25 @@
 SCREENSHOTS:
 
 ![AI Health Assistant Dashboard](public/screenshots/dashboard.jpg)
+
+
 ![AI Health Assistant Trends](public/screenshots/Trends.jpg)
+
+
 ![AI Health Assistant Analyse Report](public/screenshots/Analyse_Report.jpg)
+
 ![AI Health Assistant Health Chat](public/screenshots/Health_chat.jpg)
+
 ![AI Health Assistant Knowledge Base](public/screenshots/Knowledge_Base.jpg)
+
 ![AI Health Assistant Reminders](public/screenshots/Reminders.jpg)
+
 ![AI Health Assistant Medication](public/screenshots/Medication.jpg)
+
+
 ![AI Health Assistant Health Summary](public/screenshots/Health_summary.jpg)
+
+
 ![AI Health Assistant Personalized Nutrition](public/screenshots/Personalized_nutrition.jpg)
 
 
