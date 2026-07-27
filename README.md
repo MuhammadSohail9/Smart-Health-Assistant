@@ -28,11 +28,11 @@ SCREENSHOTS:
 
          SUMMARY
 
-![AI Health Assistant Health Summary](public/screenshots/Health_summary.jpg)
+![AI Health Assistant Health Summary](public/screenshots/Health_Summary.jpg)
 
          PERSONALIZED NUTRITION
 
-![AI Health Assistant Personalized Nutrition](public/screenshots/Personalized_nutrition.jpg)
+![AI Health Assistant Personalized Nutrition](public/screenshots/Personalized_Nutrition.jpg)
 
 
 
