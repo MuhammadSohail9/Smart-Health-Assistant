@@ -1,0 +1,6 @@
+{
+  "name": "AI Health Assistant",
+  "description": "An AI-powered healthcare assistant for medical report analysis, lab value interpretation, medication reviews, drug interaction checks, dietary guidance, and health trend tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
