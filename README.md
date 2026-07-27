@@ -14,7 +14,7 @@ SCREENSHOTS:
 ![AI Health Assistant Analyse Report](public/screenshots/Analyse_Report.jpg)
  
            HEALTH CHAT
-![AI Health Assistant Health Chat](public/screenshots/Health_chat.jpg)
+![AI Health Assistant Health Chat](public/screenshots/Health_Chat.jpg)
 
             KNOWLEDGE BASE
 ![AI Health Assistant Knowledge Base](public/screenshots/Knowledge_Base.jpg)
